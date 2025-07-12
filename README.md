@@ -18,4 +18,15 @@ HTML5 – Markup structure
 CSS3 – Styling and layout
 JavaScript (Vanilla) – Game logic and interactivity
 
+#🧠 How to Play
+The game is played on a 3x3 grid.
+
+Player 1 is X, Player 2 is O.
+
+Players take turns placing their marks.
+
+First to get 3 in a row (vertically, horizontally, or diagonally) wins!
+
+If all boxes are filled and no one wins, it’s a draw.
+
 
